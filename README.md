@@ -16,7 +16,9 @@
 
 <p align='center'>
 
-- [Cosmic - A fully Customizable Ecommerce site on .NET/React](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- [Cosmic - A fully Customizable Ecommerce site on .NET/React](https://github.com/samael-0/COSMIC---A-Fully-Customizable-.NET-React-Ecommerce-Site)
+- [FITBET](https://github.com/samael-0/COSMIC---A-Fully-Customizable-.NET-React-Ecommerce-Site)
+- [Expense Tracker in .NET MVC](https://github.com/samael-0/Expense-Tracker-APP)
 <p>
 
 
