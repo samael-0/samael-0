@@ -1,25 +1,39 @@
-<p align="center">
 
-<img src="./Assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<h1 align="center">Hi 👋, I'm Shrawan</h1>
+<h3 align="center">A Kathmandu based Software Developer/Musician working on various projects</h3>
 
-</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=samael-0&color=21AF46" alt="samael"> </p>
 
-<p float="right">
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,git,mysql,js,linux,express,postgres,docker&theme=light)](https://skillicons.dev)
 
-</p>
 
-# GitHub Stats:
-<p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1vkgdvo19ke2okkmw9sqvrbpi" width="225" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samael-0&theme=dark&hide_border=false" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samael-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=samael-0&show_icons=true&theme=radical" alt="Shrawan's GitHub stats" />
 </p>
+
+<h3 align="center">Currenty Working Side-Projects</h3>
+
+<p align='center'>
+
+- [Cosmic - A fully Customizable Ecommerce site on .NET/React](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+<p>
+
+
+<p align='center'>
+
+
+- 🎵 Listen to [Shrawan on Spotify](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ)
+<p>
+
+
+
+
+
+
+
+
+
 
 
 ![snake gif](https://github.com/samael-0/samael-0/blob/output/github-snake-dark.svg)
