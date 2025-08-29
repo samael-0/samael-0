@@ -4,7 +4,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,git,mysql,js,linux,express,postgres,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,git,mysql,js,linux,express,postgres,docker,md,npm,ts,vite,visualstudio&theme=light)](https://skillicons.dev)
 
 
 
@@ -25,15 +25,5 @@
 
 - 🎵 Listen to [Shrawan on Spotify](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ)
 <p>
-
-
-
-
-
-
-
-
-
-
 
 ![snake gif](https://github.com/samael-0/samael-0/blob/output/github-snake-dark.svg)
