@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shrawan</h1>
-<h3 align="center">A Kathmandu based Software Developer/Musician working on various projects</h3>
+<h3 align="center">A Kathmandu based FULLSTACK Software Developer/Musician working on .NET primarily</h3>
 
 
 
