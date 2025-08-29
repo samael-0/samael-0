@@ -22,4 +22,4 @@
 </p>
 
 
-![snake gif](https://github.com/samael-0/samael-0/blob/output/github-snake.svg)
+![snake gif](https://github.com/samael-0/samael-0/blob/output/github-snake-dark.svg)
