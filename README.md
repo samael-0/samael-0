@@ -4,7 +4,11 @@
 
 
 
-<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /><br><br>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</div>
+
 
 
 
