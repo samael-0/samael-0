@@ -34,7 +34,8 @@
 <p align='center'>
 
 
-- 🎵 Listen to [Shrawan on Spotify]((https://open.spotify.com/artist/2o8zVvwNIFSKkfMMZ9RFMU?si=zTHqs0rSSXC3UWEAkiYAKw))
+- 🎵 Listen to [Shrawan on Spotify](https://open.spotify.com/artist/2o8zVvwNIFSKkfMMZ9RFMU?si=zTHqs0rSSXC3UWEAkiYAKw)
+
 <p>
 
 ![snake gif](https://github.com/samael-0/samael-0/blob/output/github-snake-dark.svg)
