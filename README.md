@@ -4,6 +4,11 @@
 
 
 
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /><br><br>
+
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,git,mysql,js,linux,express,postgres,docker,md,npm,ts,vite,visualstudio&theme=light)](https://skillicons.dev)
 
 
