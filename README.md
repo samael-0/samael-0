@@ -18,7 +18,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samael-0&show_icons=true&theme=radical" alt="Shrawan's GitHub stats" />
+
+  [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=samael-0&theme=tokyonight)](https://github.com/samael-0)
 </p>
 
 <h3 align="center">Currenty Working Side-Projects</h3>
